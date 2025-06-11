@@ -1,6 +1,6 @@
 #  💻  Kaio Buno
 
-Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e contribuições :)
+Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e contribuições. Sinta-se à vontade para explorar meu trabalho.
 
 ## 🌐 Redes Sociais
 
