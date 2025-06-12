@@ -35,4 +35,6 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
 ## 🪪 Sobre mim
 
 - Atualmente sou estudante de **Licenciatura em Ciência da Computação** na **Universidade Federal da Paraíba – Campus IV**  
-- Aprendendo Java e Python.
+
+## 🛠 Habilidades
+ Java e python.
