@@ -15,7 +15,6 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrun&layout=compact&theme=dark&langs_count=6"/>
 </div>
 
-
 ## 💻 Tecnologias que uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
