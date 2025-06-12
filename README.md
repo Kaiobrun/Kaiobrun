@@ -13,8 +13,8 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiobrun&show_icons=true&theme=dark&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrun&layout=compact&theme=dark&langs_count=6"/>
-</div>
-
+</div
+  
 ## 💻 Tecnologias que uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
