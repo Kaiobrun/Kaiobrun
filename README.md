@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 #### Habilidades Detalhadas:
 * **Java:** Programação Orientada a Objetos (POO), Collections, Tratamento de Exceções.
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+* **Python:** Conceitos básicos e automação de scripts.
 * **Controle de Versão:** Git e GitHub (commits, branches, etc.).
 
 ---
