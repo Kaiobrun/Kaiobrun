@@ -10,16 +10,10 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaiobrun&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de Kaio Bruno"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrun&layout=compact&theme=dark&langs_count=6" alt="Linguagens Mais Usadas"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 8px;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiobrun&show_icons=true&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrun&layout=compact&theme=dark&langs_count=6" />
+</div>
   
 ## 💻 Tecnologias que uso
 
