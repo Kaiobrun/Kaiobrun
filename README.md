@@ -1,4 +1,4 @@
-# Olá, eu sou o Kaio Bruno 👋
+7# Olá, eu sou o Kaio Bruno 👋
 
 Estudante de Ciência da Computação na UFPB, apaixonado por resolver problemas através do código. Tenho focado meus estudos no desenvolvimento de software robusto com Java e estou sempre em busca de novos desafios para expandir meu conhecimento no universo da tecnologia.
 
@@ -16,12 +16,23 @@ Estudante de Ciência da Computação na UFPB, apaixonado por resolver problemas
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+    </a>
 </div>
+
 
 #### Habilidades Detalhadas:
 * **Java:** Programação Orientada a Objetos (POO), Collections, Tratamento de Exceções.
