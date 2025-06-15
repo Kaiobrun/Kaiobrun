@@ -7,7 +7,7 @@ Estudante de Ciência da Computação na UFPB, apaixonado por resolver problemas
 ### 📬 Como me encontrar
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.brunoo?igsh=ZmdtaXEwOTg4Zmx4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-seu-link/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kaio-bruno-seu-link/](https://www.linkedin.com/in/kaio-bruno-ribeiro-da-silva-7a1524262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
