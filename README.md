@@ -1,4 +1,4 @@
-7# Olá, eu sou o Kaio Bruno 👋
+# Olá, eu sou o Kaio Bruno 👋
 
 Estudante de Ciência da Computação na UFPB, apaixonado por resolver problemas através do código. Tenho focado meus estudos no desenvolvimento de software robusto com Java e estou sempre em busca de novos desafios para expandir meu conhecimento no universo da tecnologia.
 
