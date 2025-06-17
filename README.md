@@ -31,6 +31,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     </a>
+    <a href="https://mail.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
 
